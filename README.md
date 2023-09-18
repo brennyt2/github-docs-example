@@ -42,8 +42,15 @@ Github Flavoured Markdown(GFM) supports emojis
 :cloud:
 :star:
 
+## Step 5 - Use tables
+|Name|Shortcode|Emoji|
+|---|---|---|
+|Cloud|`:cloud:`|:cloud:|
+|Cloud with lightning|`:cloud_with_lightning:`|🌩️|
+
 ## References
 - [Terraform reference link](https://app.exampro.co/student/material/terraform-cpb/5351) <sup>1</sup>
 - [Stack Overflow link](https://stackoverflow.com/questions/48926119/syntax-error-on-bash-for-running-python-script) <sup>2</sup>
 - [GFM - Task List](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>3</sup>
-- [GTM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>4</sup>
+- [GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>4</sup>
+- [GFM - Tables](https://github.github.com/gfm/#tables-extension-)<sup>5</sup>
