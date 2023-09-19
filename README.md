@@ -38,7 +38,7 @@ Github extends markdown to have a list where you can check off items.<sup>3</sup
 - [ ] Finish Step 3
 
 ## Step 4 - Use emojis
-Github Flavoured Markdown(GFM) supports emojis
+Github Flavoured Markdown(GFM) supports emojis	
 :cloud:
 :star:
 
